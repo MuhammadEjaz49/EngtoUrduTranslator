@@ -24,6 +24,8 @@ I recently developed a real-time language translation application that converts 
 * Managing state (chat history) in frontend apps
 * Deploying AI apps on Hugging Face Spaces
 
+* 
+https://huggingface.co/spaces/MuhammadEjaz007/EngtoUrduTranslator
 💡 This project demonstrates how AI can break language barriers and improve accessibility through simple yet powerful applications.
 
 🔗 I’m excited to continue building more AI-powered tools!
