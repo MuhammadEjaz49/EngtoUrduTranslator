@@ -19,7 +19,6 @@ I recently developed a real-time language translation application that converts 
 
 * Integrating LLM APIs into real-world applications
 * Building interactive AI interfaces with Gradio
-* Managing state (chat history) in frontend apps
 * Deploying AI apps on Hugging Face Spaces
 
 * 
