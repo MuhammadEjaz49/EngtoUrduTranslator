@@ -13,8 +13,6 @@ I recently developed a real-time language translation application that converts 
 
 * Real-time English → Urdu translation
 * Clean and user-friendly interface
-* Chat-style history tracking
-* Example-based quick demo
 * Error handling for robust performance
 
 📌 **What I Learned:**
